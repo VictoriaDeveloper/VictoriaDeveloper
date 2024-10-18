@@ -11,6 +11,9 @@
 
 - ⚡ Fun fact **I tried guac in college**
 
+# 📝 Blog:
+![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white) https://dev.to/victoriadeveloper
+
 # 💻 Tech Stack:
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
