@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Victoria Uriostegui Jr</h1>
 <h3 align="center">A striving computer engineering student at the University of California, San Diego</h3>
 
-- 🔭 I’m currently working on [Zombie Rampage](https://github.com/VictoriaDeveloper/ZombieRampage)
+- 🔭 I’m currently working on [Project Shooter](https://github.com/VictoriaDeveloper/Project-Shooter)
+
+- 🔭 I’m currently working on [Portfolio Website](https://github.com/VictoriaDeveloper/Portfolio-Website)
 
 - 🌱 I’m currently learning **Unreal Engine 5.4**
 
