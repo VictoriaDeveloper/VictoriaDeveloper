@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Victoria Uriostegui Jr</h1>
 <h3 align="center">A striving computer engineering student at the University of California, San Diego</h3>
 
-- 🔭 I’m currently working on [Femininomenon Jam](https://github.com/VictoriaDeveloper/Project-Shooter)
+- 🔭 I’m currently working on [Femininomenon Jam](https://github.com/VictoriaDeveloper/Femininomenon-Jam)
 
-- 🌱 I’m currently learning **Unreal Engine 5.4**
+- 🌱 I’m currently learning **Unreal Engine 5.5**
 
-- 💬 Ask me about **Unreal Engine, video games, and board games**
+- 💬 Ask me about **Unreal Engine and Dungeons and Dragons**
 
 - 📫 How to reach me **victoriauriosteguijr@gmail.com**
 
-- ⚡ Fun fact **I tried guac in college**
+- ⚡ Fun fact **I run a solo DnD campaign using ChatGPT**
 
 # 📝 Blog:
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white) 
