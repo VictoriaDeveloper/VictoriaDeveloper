@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Victoria Uriostegui Jr</h1>
 <h3 align="center">A striving computer engineering student at the University of California, San Diego</h3>
 
-- 🔭 I’m currently working on [Femininomenon Jam](https://github.com/VictoriaDeveloper/Femininomenon-Jam)
+- 🔭 I’m currently working on [GunSurvivors](https://github.com/VictoriaDeveloper/GunSurvivors)
 
-- 🌱 I’m currently learning **Unreal Engine 5.5**
+- 🌱 I’m currently learning **Unreal Engine**
 
 - 💬 Ask me about **Unreal Engine and Dungeons and Dragons**
 
