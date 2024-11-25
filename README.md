@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victoria Uriostegui Jr</h1>
 <h3 align="center">A striving computer engineering student at the University of California, San Diego</h3>
 
-- 🔭 I’m currently working on [GunSurvivors](https://github.com/VictoriaDeveloper/GunSurvivors)
+- 🔭 I’m currently working on []()
 
 - 🌱 I’m currently learning **Unreal Engine**
 
